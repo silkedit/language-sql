@@ -1,0 +1,10 @@
+{
+  "name": "language-sql",
+  "version": "0.1.0",
+  "description": "SQL language support in SilkEdit",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:silkedit/language-sql.git"
+  },
+  "license": "MIT"
+}
